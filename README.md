@@ -40,3 +40,5 @@ How to contact maintainers. E.g. GitHub Issues, GitHub Discussions could be indi
 ## License
 
 pkg-fastrpc is licensed under the [BSD-3-clause License](https://spdx.org/licenses/BSD-3-Clause.html). See [LICENSE.txt](LICENSE.txt) for the full license text.
+
+## Testing org level ruleset with require workflow to pass setting
